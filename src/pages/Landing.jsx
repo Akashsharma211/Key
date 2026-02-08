@@ -193,7 +193,7 @@ export default function Landing() {
             </p>
             <div className="flex gap-8">
                 {['GitHub'].map(link => (
-                    <a key={link} href="https://github.com/Akashsharma211/Keyzzz" className="text-xs font-bold text-slate-500 hover:text-indigo-600 transition-colors">
+                    <a key={link} href="https://github.com/Akashsharma211/Key" className="text-xs font-bold text-slate-500 hover:text-indigo-600 transition-colors">
                         {link}
                     </a>
                 ))}
